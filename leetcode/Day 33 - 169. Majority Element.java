@@ -2,7 +2,7 @@
 - LeetCode Journey - Day 33
 -
 - Problem Name:
-- Majority Element
+- Majority Element 
 -
 - Difficulty:
 - Easy
