@@ -5,7 +5,7 @@
 - Majority Element 
 -
 - Difficulty:
-- Easy
+- Easy  
 -
 - Problem:
 - Given an array `nums` of size `n`, return the element that appears more than ⌊n / 2⌋ times.
