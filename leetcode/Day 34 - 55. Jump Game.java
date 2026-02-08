@@ -3,7 +3,7 @@
 - LeetCode Journey - Day 34
 - 
 - Problem Name: Jump Game
-- Difficulty: Medium
+- Difficulty: Medium 
 - 
 - Problem:
 - Given an array where each element represents your maximum jump length at that position,
