@@ -1,4 +1,4 @@
-/**
+/**   
  * LeetCode Journey - Day 38
  *
  * Problem Name: Longest Common Prefix
