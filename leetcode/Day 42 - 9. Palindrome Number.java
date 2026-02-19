@@ -5,7 +5,7 @@
 - Difficulty: Easy
 -
 - Problem:
-- Given an integer x, return true if x is a palindrome, and false otherwise.
+- Given an integer x, return true if x is a palindrome, and false otherwise .
 -
 - LeetCode Link:
 - https://leetcode.com/problems/palindrome-number/
