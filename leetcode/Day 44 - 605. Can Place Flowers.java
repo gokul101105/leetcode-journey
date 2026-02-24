@@ -10,7 +10,7 @@
 - return true if n new flowers can be planted without violating the no-adjacent-flowers rule.
 - 
 - LeetCode Link:
-- https://leetcode.com/problems/can-place-flowers/
+- https://leetcode.com/problems/can-place-flowers/ 
 - 
 - Approach:
 - 
