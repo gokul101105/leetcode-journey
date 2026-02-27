@@ -2,7 +2,7 @@
  
 - LeetCode Journey - Day 46
 - 
-- Problem Name: Increasing Triplet Subsequence
+- Problem Name: Increasing Triplet Subsequence 
 - Difficulty: Medium
 - 
 - Problem:
