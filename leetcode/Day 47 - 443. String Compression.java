@@ -2,7 +2,7 @@
  
 - LeetCode Journey - Day 47
 - 
-- Problem Name: String Compression
+- Problem Name: String Compression   
 - Difficulty: Medium
 - 
 - Problem:
