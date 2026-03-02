@@ -7,7 +7,7 @@
 - 
 - Problem:
 - Given an array of characters, compress it in-place by replacing
-  consecutive repeating characters with the character followed by
+  consecutive repeating characters with the character followed by    
   the count (if count > 1). Return the new length.
 - 
 - LeetCode Link:
