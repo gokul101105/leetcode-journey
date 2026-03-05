@@ -3,7 +3,7 @@
 - LeetCode Journey - Day 46
 - 
 - Problem Name: Increasing Triplet Subsequence 
-- Difficulty: Medium
+- Difficulty: Medium 
 - 
 - Problem:
 - Given an integer array nums, return true if there exists 
