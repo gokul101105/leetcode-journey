@@ -2,7 +2,7 @@
 
 - LeetCode Journey - Day 48
 - 
-- Problem Name: Max Number of K-Sum Pairs
+- Problem Name: Max Number of K-Sum Pairs   
 - Difficulty: Medium
 - 
 - Problem:
