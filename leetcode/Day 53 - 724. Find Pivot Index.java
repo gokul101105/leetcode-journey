@@ -3,7 +3,7 @@
 - LeetCode Journey - Day 53    
 -  
 - Problem Name:
-- Find Pivot Index
+- Find Pivot Index.
 - Difficulty:
 - Easy
 - 
