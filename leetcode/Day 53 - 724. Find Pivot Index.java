@@ -1,6 +1,6 @@
 /**
 
-- LeetCode Journey - Day 53   
+- LeetCode Journey - Day 53    
 -  
 - Problem Name:
 - Find Pivot Index
