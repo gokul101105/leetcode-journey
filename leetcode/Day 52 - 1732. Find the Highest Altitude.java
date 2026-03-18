@@ -1,7 +1,7 @@
 /**
 
 - LeetCode Journey - Day 52
-- 
+-     
 - Problem Name: Find the Highest Altitude
 - Difficulty: Easy
 - 
