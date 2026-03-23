@@ -30,7 +30,7 @@
 import java.util.*;
 
 class Solution {
-    public int largestAltitude(int[] gain) {
+    public int largestAltitude(int[] gain) {  
 
         int max = 0;
         int curr = 0;
