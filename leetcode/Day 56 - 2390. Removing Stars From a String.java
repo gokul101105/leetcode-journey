@@ -6,7 +6,7 @@
  * 
  * Problem:
  * Given a string containing letters and '*' characters, remove each '*' along with   
- * the closest non-star character to its left, and return the final string.
+ * the closest non-star character to its left, and return the final string 
  * 
  * LeetCode Link:
  * https://leetcode.com/problems/removing-stars-from-a-string/
