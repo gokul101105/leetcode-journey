@@ -15,7 +15,7 @@
 - Approach:
 - 
 -    Step 1:
--    Convert each row into a string pattern and store its frequency in a HashMap.
+-    Convert each row into a string pattern and store its frequency in a HashMap
 - 
 -    Step 2:
 -    Convert each column into the same string pattern format.
