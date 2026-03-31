@@ -6,7 +6,7 @@
  * - Difficulty: Medium
  * 
  * - Problem:
- *   We are given asteroids moving in a line, where positive values move right 
+ *   We are given asteroids moving in a line, where positive values move right
  *   and negative values move left. When two asteroids collide, the smaller one
  *   explodes. Return the state of the asteroids after all collisions.
  * 
