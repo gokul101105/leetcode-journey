@@ -5,7 +5,7 @@
  * Difficulty: Easy
  * 
  * Problem:
- * Design a class that counts the number of recent requests in the last 3000 milliseconds. 
+ * Design a class that counts the number of recent requests in the last 3000 milliseconds
  * For each ping(t), return how many requests happened in the range [t - 3000, t].
  * 
  * LeetCode Link:
