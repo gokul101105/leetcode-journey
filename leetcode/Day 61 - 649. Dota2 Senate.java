@@ -5,7 +5,7 @@
  * Difficulty: Medium
  * 
  * Problem:
- * In the Dota2 senate, each senator can ban one senator from the opposite party.
+ * In the Dota2 senate, each senator can ban one senator from the opposite party. 
  * Predict which party will finally win if all senators act optimally.
  * 
  * LeetCode Link:
