@@ -1,7 +1,7 @@
 /**
  * LeetCode Journey - Day 61
  * 
- * Problem Name: Dota2 Senate
+ * Problem Name: Dota2 Senate 
  * Difficulty: Medium
  * 
  * Problem:
