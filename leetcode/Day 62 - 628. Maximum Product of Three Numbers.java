@@ -2,7 +2,7 @@
  * LeetCode Journey - Day 62
  * 
  * Problem Name: Maximum Product of Three Numbers
- * Difficulty: Easy
+ * Difficulty: Easy 
  * 
  * Problem:
  * Find the maximum product of any three numbers in the array.
