@@ -1,7 +1,7 @@
 /**
  * LeetCode Journey - Day 62
  * 
- * Problem Name: Maximum Product of Three Numbers
+ * Problem Name: Maximum Product of Three Numbers 
  * Difficulty: Easy 
  * 
  * Problem:
