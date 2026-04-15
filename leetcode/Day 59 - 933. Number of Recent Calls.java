@@ -2,7 +2,7 @@
  * LeetCode Journey - Day 59
  * 
  * Problem Name: Number of Recent Calls
- * Difficulty: Easy
+ * Difficulty: Easy 
  * 
  * Problem:
  * Design a class that counts the number of recent requests in the last 3000 milliseconds
