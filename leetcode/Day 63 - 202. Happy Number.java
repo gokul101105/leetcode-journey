@@ -6,7 +6,7 @@
  * 
  * Problem:
  * Determine if a number is a happy number.
- * A happy number is defined as a number which eventually reaches 1
+ * A happy number is defined as a number which eventually reaches 1 
  * when replaced by the sum of the squares of its digits repeatedly.
  * If it loops endlessly without reaching 1, it is not a happy number.
  * 
