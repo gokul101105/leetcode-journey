@@ -1,7 +1,7 @@
 /**
  * LeetCode Journey - Day 67
  * 
- * Problem Name: Leaf-Similar Trees
+ * Problem Name: Leaf-Similar Trees 
  * Difficulty: Easy
  * 
  * Problem:
