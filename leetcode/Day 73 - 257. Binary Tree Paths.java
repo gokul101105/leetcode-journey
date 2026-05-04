@@ -1,7 +1,7 @@
 /**
  * LeetCode Journey - Day 73
  * 
- * Problem Name: Binary Tree Paths
+ * Problem Name: Binary Tree Paths 
  * Difficulty: Easy
  *   
  * Problem:
