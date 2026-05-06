@@ -2,7 +2,7 @@
  * LeetCode Journey - Day 73
  * 
  * Problem Name: Binary Tree Paths 
- * Difficulty: Easy
+ * Difficulty: Easy   
  *   
  * Problem:
  * Given the root of a binary tree, return all root-to-leaf paths 
