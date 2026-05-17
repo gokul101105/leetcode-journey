@@ -2,7 +2,7 @@
  * LeetCode Journey - Day 76
  * 
  * Problem Name:
- * Lowest Common Ancestor of a Binary Tree
+ * Lowest Common Ancestor of a Binary Tree 
  * 
  * Difficulty:
  * Medium
