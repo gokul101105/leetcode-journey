@@ -2,7 +2,7 @@
  * LeetCode Journey - Day 77  
  * 
  * Problem Name:
- * Binary Tree Zigzag Level Order Traversal
+ * Binary Tree Zigzag Level Order traversal
  * 
  * Difficulty:
  * Medium
